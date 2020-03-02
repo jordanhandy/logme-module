@@ -1,0 +1,24 @@
+{
+  "name": "my-simple-logger",
+  "version": "1.0.0",
+  "description": "Simple logger with timestamp",
+  "main": "logme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordanhandy/logme-module.git"
+  },
+  "keywords": [
+    "logger",
+    "time",
+    "simple"
+  ],
+  "author": "Jordan Handy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordanhandy/logme-module/issues"
+  },
+  "homepage": "https://github.com/jordanhandy/logme-module#readme"
+}
