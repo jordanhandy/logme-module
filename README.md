@@ -2,7 +2,7 @@
 ## Usage
 ```
 var logMe = require("my-simple-logger");
-logme.log("Test")
+logMe.log("Test")
 ```
 Result:
 ```
